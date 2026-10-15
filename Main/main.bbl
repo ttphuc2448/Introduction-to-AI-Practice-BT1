@@ -1,0 +1,173 @@
+\begin{thebibliography}{10}
+
+\bibitem{wiki-gemini}
+{Wikipedia}.
+\newblock Google gemini.
+\newblock \url{https://en.wikipedia.org/wiki/Google_Gemini}, 2026.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{team2023gemini}
+{Gemini Team, Google}.
+\newblock Gemini: A family of highly capable multimodal models.
+\newblock {\em arXiv preprint arXiv:2312.11805}, 2023.
+\newblock \url{https://arxiv.org/abs/2312.11805}.
+
+\bibitem{team2024gemini}
+{Gemini Team, Google}.
+\newblock Gemini 1.5: Unlocking multimodal understanding across millions of
+  tokens of context.
+\newblock {\em arXiv preprint arXiv:2403.05530}, 2024.
+\newblock \url{https://arxiv.org/abs/2403.05530}.
+
+\bibitem{google-gemini-15-pro}
+{Sundar Pichai, Demis Hassabis}.
+\newblock Our next-generation model: Gemini 1.5.
+\newblock
+  \url{https://blog.google/innovation-and-ai/products/google-gemini-next-generation-model-february-2024/},
+  2024.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{google-gemini-15-flash-debut}
+{Mat Velloso, Josh Woodward}.
+\newblock Gemini 1.5 pro updates, 1.5 flash debut and 2 new gemma models.
+\newblock
+  \url{https://blog.google/innovation-and-ai/technology/developers-tools/gemini-gemma-developer-updates-may-2024/},
+  2024.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{google-gemini-2-agent}
+{Sundar Pichai, Demis Hassabis, Koray Kavukcuoglu}.
+\newblock Introducing gemini 2.0: our new ai model for the agentic era.
+\newblock
+  \url{https://blog.google/innovation-and-ai/models-and-research/google-deepmind/google-gemini-ai-update-december-2024/},
+  2024.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{google-gemini-2-updates-feb2025}
+{Koray Kavukcuoglu}.
+\newblock Gemini 2.0 is now available to everyone.
+\newblock
+  \url{https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-model-updates-february-2025/},
+  2025.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{comanici2025gemini}
+Gheorghe Comanici et~al.
+\newblock Gemini 2.5: Pushing the frontier with advanced reasoning,
+  multimodality, long context, and next generation agentic capabilities.
+\newblock {\em arXiv preprint arXiv:2507.06261}, 2025.
+\newblock \url{https://arxiv.org/abs/2507.06261}.
+
+\bibitem{google-gemini-25-thinking-mar2025}
+{Koray Kavukcuoglu}.
+\newblock Gemini 2.5: Our most intelligent ai model.
+\newblock
+  \url{https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-model-thinking-updates-march-2025/},
+  2025.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{google-gemini-cli}
+{Taylor Mullen, Ryan J. Salva}.
+\newblock Gemini cli: your open-source ai agent.
+\newblock
+  \url{https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-cli-open-source-ai-agent/},
+  2025.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{google-gemini-3}
+{Sundar Pichai, Demis Hassabis, Koray Kavukcuoglu}.
+\newblock A new era of intelligence with gemini 3.
+\newblock
+  \url{https://blog.google/products-and-platforms/products/gemini/gemini-3/},
+  2025.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{google-spark-omni}
+Sundar Pichai.
+\newblock I/o 2026: Welcome to the agentic gemini era.
+\newblock
+  \url{https://blog.google/intl/en-in/company-news/technology/sundar-pichai-io-2026/},
+  2026.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{techcrunch-gemini-models-2026}
+Rebecca Bellan.
+\newblock Google releases three new gemini models --- but no 3.5 pro.
+\newblock
+  \url{https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/},
+  2026.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{google-gemini-4-argon}
+{Koray Kavukcuoglu}.
+\newblock Gemini 4 argon: our next era of frontier intelligence.
+\newblock
+  \url{https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/},
+  2026.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{vaswani2017}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In {\em Advances in Neural Information Processing Systems},
+  volume~30, 2017.
+\newblock \url{https://arxiv.org/abs/1706.03762}.
+
+\bibitem{google-one-pricing}
+{Google}.
+\newblock Google one {AI} pro plan overview.
+\newblock \url{https://one.google.com/ai}, 2026.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{google-support-limits}
+{Google Support}.
+\newblock Các bản nâng cấp và hạn mức sử dụng của các ứng
+  dụng gemini dành cho người đăng ký google ai.
+\newblock \url{https://support.google.com/gemini/answer/16275805}, 2026.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{casper2023open}
+Stephen Casper, Xander Davies, Claudia Shi, Thomas~Krendl Gilbert,
+  J{\'e}r{\'e}my Scheurer, Javier Rando, Rachel Freedman, Tomasz Korbak, David
+  Lindner, Pedro Freire, et~al.
+\newblock Open problems and fundamental limitations of reinforcement learning
+  from human feedback.
+\newblock {\em arXiv preprint arXiv:2307.15217}, 2023.
+\newblock \url{https://arxiv.org/abs/2307.15217}.
+
+\bibitem{tonmoy2024comprehensive}
+S.~M. Towhidul~Islam Tonmoy, S.~M.~Mehedi Zaman, Vinija Jain, Anku Rani, Vipula
+  Rawte, Aman Chadha, and Amitava Das.
+\newblock A comprehensive survey of hallucination mitigation techniques in
+  large language models.
+\newblock {\em arXiv preprint arXiv:2401.01313}, 2024.
+\newblock \url{https://arxiv.org/abs/2401.01313}.
+
+\bibitem{cafef-openai-dispute}
+{CafeF}.
+\newblock Openai tuyên bố 10.000 {AI} agent của họ vừa giải được
+  bài toán thế kỷ, giáo sư toán học lên tiếng: ``họ đang
+  cướp công của tôi''.
+\newblock
+  \url{https://cafef.vn/openai-tuyen-bo-10000-ai-agent-cua-ho-vua-giai-duoc-bai-toan-the-ky-giao-su-toan-hoc-len-tieng-ho-dang-cuop-cong-cua-toi-188260910072500287.chn},
+  2026.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{thuvienphapluat-ai-giaoduc}
+{Thư Viện Pháp Luật}.
+\newblock Từ 15/8, sử dụng {AI} trong giáo dục phải bảo đảm
+  liêm chính học thuật.
+\newblock
+  \url{https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/chi-dao-dieu-hanh/4444/tu-15-8-su-dung-ai-trong-giao-duc-phai-bao-dam-liem-chinh-hoc-thuat},
+  2025.
+\newblock Truy cập ngày 15/10/2026.
+
+\bibitem{ghimire2024generativeaieducationstudy}
+Aashish Ghimire, James Prather, and John Edwards.
+\newblock Generative {AI} in education: A study of educators' awareness,
+  sentiments, and influencing factors.
+\newblock {\em arXiv preprint arXiv:2403.15586}, 2024.
+\newblock \url{https://arxiv.org/abs/2403.15586}.
+
+\end{thebibliography}
