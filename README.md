@@ -16,4 +16,7 @@ Giải thích ý nghĩa các file:
 
 # Đoạn chat với Antigravity
 Do là em không dùng cái nút `Export` trong Antigravity để xuất đoạn chat ra được nên là em sẽ dùng tính năng record để quay lại toàn bộ đoạn chat giữa em và Antigravity. 
-Đây là đoạn link: [Google Drive](https://drive.google.com/drive/folders/1e7SsLiamF2mozwElRsQBiKS1MtRnUHLN?usp=drive_link)
+Đây là đoạn link: [Antigravity Chat](https://drive.google.com/file/d/1obN5rdlhZRvpQpFQ2D-ddjNFbpoFZhPP/view?usp=drive_link)
+
+# File pdf
+File pdf trong bài nộp chưa phải là bản hoàn chỉnh (phiên bản cũ), em có download lại phiên bản mới từ `main.tex` em đã nộp trong `MSSV.zip` tại đây: [26122065.pdf](https://drive.google.com/file/d/1NdCrqCKUMCEU55sOTqqW3p4e_8OfD9gj/view?usp=drive_link)
